@@ -1,0 +1,66 @@
+
+
+
+
+
+  
+   .image0 {
+
+   
+    text-align: TOP center;
+    text-shadow: 2px 2px 5px rgb(67, 27, 209);
+
+   }
+
+    
+
+
+
+    header{
+      
+    
+      text-align: right;
+      font-size: medium;
+      padding-top: 15px;
+      display: inline-block;
+      color: rebeccapurple;
+      text-shadow: 0 0 0 red;
+ 
+    }
+
+
+
+       
+   
+
+
+  .image1 {
+    color: black;
+
+
+    padding-bottom: auto;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    
+
+ 
+		padding: 20px;
+    background-image: url(file:///E:/myproject/istockphoto-1327024466-170667a.jpg);
+     
+  }
+
+
+  STRONG{
+
+    color: black;
+    font-size: x-large;
+    padding-top: 40px;
+    padding-right: 5px;
+    background-color: cornflowerblue;
+  }
+
+
+  
+     
